@@ -1,6 +1,6 @@
 # Dominos-Pizza-Sales-Analysis
 # Major KPI's are :-
-This is Pizza Sales Analysis Project using Power Bi and SQL
+This is Pizza Sales Analysis Project using Power BI and SQL
 To analyze key indicator for Pizza Sales data to gain insights into business performance. I will calculate the following metrics in this projects:-
 1. Total Revenue
 2. Average order Values
